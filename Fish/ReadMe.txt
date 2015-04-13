@@ -5,7 +5,6 @@ If you catch a "$", you will earn a dollar, and if you catch a super gold, you w
 When you are out, you will see a handsome little man who will give you a warm hug to comfort you.
 Hope you can enjoy!
 
-Requirements check:
 1.Animation (check)
 2.Maintain Structure (check)
 3.Button Input (check)
